@@ -1,0 +1,20 @@
+[
+    {
+        "student_id": "001",
+        "name": "Zohaib",
+        "age": 22,
+        "department": "BSCS"
+    },
+    {
+        "student_id": "002",
+        "name": "Shahzaib",
+        "age": 22,
+        "department": "BSCS"
+    },
+    {
+        "student_id": "004",
+        "name": "Danish",
+        "age": 23,
+        "department": "BSSE"
+    }
+]
